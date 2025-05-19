@@ -1,0 +1,39 @@
+id,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTFIRSTNAME,CONTACTLASTNAME
+1,FunGiftIdeas.com,+33 1 46 62 7555,1785 First Street,,NYC,MA,44000,UK,EMEA,Kyung,Benitez
+2,La Rochelle Gifts,2155551555,"67, rue des Cinquante Otages",Suite 101,Lille,CA,59000,France,,Martine,Labrune
+3,"UK Collectables, Ltd.",(171) 555-2282,Berkeley Gardens 12  Brewery,,Liverpool,PA,WX1 6LT,UK,,Elizabeth,Devon
+4,Daedalus Designs Imports,+33 1 46 62 7555,"184, chausse de Tournai",,NYC,NY,10022,USA,EMEA,Michael,Rance
+5,Mini Wheels Co.,+33 1 46 62 7554,5557 North Pendale Street,,Paris,PA,75508,USA,,Daniel,Murphy
+6,FunGiftIdeas.com,5085552555,1785 First Street,,Liverpool,CA,WX1 6LT,UK,EMEA,Elizabeth,Benitez
+7,Reims Collectables,6505551386,59 rue de l'Abbaye,,San Francisco,CA,,USA,EMEA,Julie,Da Cunha
+8,Vitachrome Inc.,+33 1 46 62 7555,2678 Kingston Rd.,,Paris,CA,75508,France,,Daniel,Frick
+9,Daedalus Designs Imports,2155551555,"184, chausse de Tournai",,San Francisco,CA,,USA,,Paul,Rance
+10,Diecast Classics Inc.,5085552555,7586 Pompton St.,,Liverpool,CA,WX1 6LT,UK,EMEA,Elizabeth,Yu
+11,Daedalus Designs Imports,2155551555,"184, chausse de Tournai",Suite 101,Paris,CA,59000,USA,EMEA,Martine,Rance
+12,Diecast Classics Inc.,6505555787,7586 Pompton St.,,Allentown,CA,10022,USA,,Michael,Yu
+13,Mini Wheels Co.,+33 1 46 62 7554,5557 North Pendale Street,,NYC,NY,10022,USA,EMEA,Michael,Murphy
+14,Diecast Classics Inc.,6505551386,7586 Pompton St.,,Reims,MA,51100,USA,,Paul,Yu
+15,Daedalus Designs Imports,+33 1 46 62 7554,"184, chausse de Tournai",,Lille,CA,75508,USA,,Daniel,Rance
+16,FunGiftIdeas.com,5085552555,Berkeley Gardens 12  Brewery,,New Bedford,MA,50553,France,,Violeta,Devon
+17,Reims Collectables,6505551386,59 rue de l'Abbaye,,San Francisco,CA,,USA,,Julie,Henriot
+18,Vitachrome Inc.,6505551386,2678 Kingston Rd.,,San Francisco,NY,,USA,,Julie,Murphy
+19,Mini Wheels Co.,2125551500,5557 North Pendale Street,,New Bedford,CA,50553,France,EMEA,Violeta,Murphy
+20,Diecast Classics Inc.,6505551386,7586 Pompton St.,,San Francisco,PA,,USA,,Julie,Frick
+21,Reims Collectables,6505551386,59 rue de l'Abbaye,,San Francisco,CA,,USA,,Paul,Da Cunha
+22,La Rochelle Gifts,+33 1 46 62 7554,"67, rue des Cinquante Otages",Suite 101,NYC,CA,10022,UK,EMEA,Michael,Benitez
+23,Corporate Gift Ideas Co.,2155551555,7734 Strong St.,,San Francisco,CA,51100,USA,,Paul,Brown
+24,FunGiftIdeas.com,+33 1 46 62 7555,1785 First Street,,Nantes,NY,44000,France,EMEA,Janine,Benitez
+25,FunGiftIdeas.com,2125551500,1785 First Street,,New Bedford,CA,50553,France,,Violeta,Benitez
+26,Diecast Classics Inc.,2125551500,"67, rue des Cinquante Otages",,Liverpool,CA,WX1 6LT,UK,EMEA,Elizabeth,Labrune
+27,La Rochelle Gifts,+33 1 46 62 7554,"67, rue des Cinquante Otages",,Paris,NY,75508,USA,,Daniel,Yu
+28,FunGiftIdeas.com,2155551555,1785 First Street,Suite 101,San Francisco,MA,,USA,,Paul,Benitez
+29,La Rochelle Gifts,5085552555,"67, rue des Cinquante Otages",Suite 101,New Bedford,CA,50553,France,EMEA,Violeta,Labrune
+30,Corporate Gift Ideas Co.,+33 1 46 62 7554,7734 Strong St.,,Lille,CA,59000,USA,,Martine,Brown
+31,"UK Collectables, Ltd.",2155551555,Berkeley Gardens 12  Brewery,,Allentown,PA,70267,USA,,Kyung,Devon
+32,Vitachrome Inc.,6505555787,2678 Kingston Rd.,Suite 101,Lille,PA,59000,USA,,Martine,Frick
+33,Lyon Souveniers,2155551555,27 rue du Colonel Pierre Avia,,Lille,CA,59000,France,EMEA,Martine,Da Cunha
+34,Diecast Classics Inc.,+33 1 46 62 7554,7586 Pompton St.,Suite 101,Paris,PA,75508,USA,,Martine,Yu
+35,Diecast Classics Inc.,2125551500,7586 Pompton St.,,Nantes,CA,44000,USA,EMEA,Janine,Yu
+36,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,PA,59000,USA,,Michael,Frick
+37,Diecast Classics Inc.,5085552555,7586 Pompton St.,Suite 101,New Bedford,CA,WX1 6LT,UK,EMEA,Violeta,Yu
+38,La Rochelle Gifts,2125551500,"67, rue des Cinquante Otages",,New Bedford,CA,50553,France,EMEA,Janine,Labrune
