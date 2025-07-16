@@ -15,7 +15,7 @@ A repository for personal data pipeline projects
 ### DESCRIPTION
 Creating a etl pipeline that extract data from csv and uploads it to aws s3
 
-I created a python script [`project1.py`]('practice_project_etl/csv_to_s3_etl/etl_pipeline_projects/project_1.py') that extract a [csv file]('practice_project_etl/csv_to_s3_etl/etl_pipeline_projects/raw/customer_data.csv') and uploads to s3 (Amazon simple storage service) bucket.
+I created a python script [`project1.py`](project_1.py) that extract a [csv file](raw/customer_data.csv) and uploads to s3 (Amazon simple storage service) bucket.
 
 **Note: csv file contains fake customer data.**
 
