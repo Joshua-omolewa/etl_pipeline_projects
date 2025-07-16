@@ -1,4 +1,4 @@
-# Uploading data to s3 using csv
+# Uploading csv file to s3
 # Author: Joshua Omolewa
 import boto3
 import logging
