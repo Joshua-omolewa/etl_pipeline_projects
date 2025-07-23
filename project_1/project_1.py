@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format=fmt_str, datefmt=date_format)
 
 BUCKET_NAME = "bronze-layer-csv"  # name of s3 bucket
 FILE_NAME = "customer.csv"  # name of the file object in s3
-RAW_CSV_FILE_PATH = "raw/customer_data.csv"  # local path of the csv file
+RAW_CSV_FILE_PATH = "project_1/raw/customer_data.csv"  # local path of the csv file
 
 
 def s3_client() -> boto3.client:
@@ -21,7 +21,7 @@ def s3_client() -> boto3.client:
     return boto3.client("s3")
 
 
-def main():
+def main() -> None:
     with open(
         RAW_CSV_FILE_PATH, mode="br"
     ) as csv_file:  # create a csv file object in binary mode
