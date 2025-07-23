@@ -55,7 +55,7 @@ uv run python project_1/project_1.py
 # Project 2 (In Progress)
 
 ### DESCRIPTION
-Developing a Lakehouse architecture using Terraform. Architecture involves creating an etl pipeline that extract data from csv, load it to AWS s3 and transform it using glue and and load transformed data into an iceberg table
+Developing a Lakehouse architecture using Terraform. Architecture involves creating an etl pipeline that extract raw data from csv, load it to AWS s3, transform raw data using glue and load transformed data into an iceberg table
 
 # Follow Me On
   
